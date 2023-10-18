@@ -231,6 +231,74 @@ Pero, todavía hay algunos juegos que no son compatibles con Linux. Esto suele d
 
 Si un juego no es compatible con **Proton**, puedes intentar usar **Wine** o una versión nativa del juego. Wine es un proyecto de código abierto que permite ejecutar aplicaciones de Windows en Linux. Sin embargo, Wine puede ser más complejo de usar que Proton.
 
+# Instalar Linux en DualBoot:
+
+1. Descargue la imagen ISO de la distribución de Linux que desea instalar.
+
+2. Descargue e instale la herramienta de creación de medios de instalación de Linux que desea utilizar.
+
+3. Conecte una unidad USB vacía a su computadora.
+
+4. Ejecute la herramienta de creación de medios de instalación de Linux.
+
+5. Siga las instrucciones en pantalla para crear el medio de instalación.
+
+6. Reinicie su PC y configure la secuencia de arranque para que inicie desde el USB. Las instrucciones específicas para hacerlo variarán según la marca y modelo de su computadora. Consulte el manual del usuario o el sitio web del fabricante para obtener información detallada sobre cómo configurar la secuencia de arranque.
+
+7. Cuando el sistema arranque desde el USB, siga las instrucciones en pantalla para instalar Linux en el disco duro junto con su sistema operativo actual (DualBoot). Asegúrese de seguir las indicaciones con cuidado y tenga en cuenta que esta acción modificará la configuración de su disco duro, así que hágalo con precaución.
+
+8. Complete el proceso de instalación siguiendo las indicaciones de la distribución de Linux. Esto incluirá la selección de idioma, zona horaria, configuración de usuario y otros detalles.
+
+9. Después de completar la instalación, reinicie su computadora y podrá elegir entre su sistema operativo original y Linux al arrancar. El menú de inicio DualBoot le permitirá seleccionar cuál de los dos sistemas operativos desea utilizar en cada arranque.
+
+
+## Descargar e instalar la herramienta de creación de medios de instalación de Linux:
+
+- [**Balena Etcher**](https://etcher.balena.io/): Una herramienta de creación de medios de instalación de Linux.
+
+- [**Ventoy**](https://www.ventoy.net/en/index.html): Otra herramienta para crear medios de instalación de Linux.
+
+**Ejemplo con Etcher**:
+
+1. Ejecute Etcher.
+
+2. Haga clic en "Select image" y seleccione la imagen ISO de Linux que descargó.
+
+3. Haga clic en "Select drive" y seleccione la unidad USB que conectó a su computadora.
+
+4. Haga clic en "Flash!".
+
+5. Espere a que Etcher termine de crear el medio de instalación.
+
+**Ejemplo con Ventoy**:
+
+1. Ejecute Ventoy.
+
+2. Haga clic en "+" y seleccione la unidad USB que conectó a su computadora.
+
+3. Haga clic en "Yes" para formatear la unidad USB.
+
+4. Copie la imagen ISO de Linux a la unidad USB.
+
+## Para descargar la ISO para Linux:
+
+- [**Ubuntu**](https://ubuntu.com/): Sitio web de Ubuntu, una distribución popular de Linux.
+
+- [**Linux Mint**](https://linuxmint.com/): Sitio web de Linux Mint, otra distribución de Linux amigable.
+
+- [**Debian**](https://www.debian.org/index.es.html): Sitio web de Debian, una distribución de Linux conocida por su estabilidad.
+
+
+# Recursos Recomendados para Aprender Linux:
+
+- [**hack4u**](https://hack4u.io/cursos/introduccion-a-linux/): Ofrece cursos de introducción a Linux.
+
+- [**mastermind**](https://www.mastermind.ac/courses/search?search=linux): Proporciona una variedad de cursos relacionados con Linux.
+
+- [**Nate Gentile**](https://www.youtube.com/watch?v=knrc4q1S_q0): Canal de YouTube con contenido relacionado con Linux y tutoriales.
+
+Estos recursos son excelentes opciones para aprender Linux y adquirir habilidades en el sistema operativo. Puedes explorar cursos en línea y tutoriales en video para obtener un conocimiento más profundo de Linux.
+
 # Algunos Atajos recomendados en Linux:
 
 - `Ctrl+C`: Interrumpe la ejecución de un comando.
@@ -300,76 +368,6 @@ Si un juego no es compatible con **Proton**, puedes intentar usar **Wine** o una
 - `php`: Lenguaje de programación interpretado.
 - `ruby`: Lenguaje de programación interpretado.
 - `nodejs`: Entorno de ejecución JavaScript.
-
-
-# Instalar Linux en DualBoot:
-
-1. Descargue la imagen ISO de la distribución de Linux que desea instalar.
-
-2. Descargue e instale la herramienta de creación de medios de instalación de Linux que desea utilizar.
-
-3. Conecte una unidad USB vacía a su computadora.
-
-4. Ejecute la herramienta de creación de medios de instalación de Linux.
-
-5. Siga las instrucciones en pantalla para crear el medio de instalación.
-
-6. Reinicie su PC y configure la secuencia de arranque para que inicie desde el USB. Las instrucciones específicas para hacerlo variarán según la marca y modelo de su computadora. Consulte el manual del usuario o el sitio web del fabricante para obtener información detallada sobre cómo configurar la secuencia de arranque.
-
-7. Cuando el sistema arranque desde el USB, siga las instrucciones en pantalla para instalar Linux en el disco duro junto con su sistema operativo actual (DualBoot). Asegúrese de seguir las indicaciones con cuidado y tenga en cuenta que esta acción modificará la configuración de su disco duro, así que hágalo con precaución.
-
-8. Complete el proceso de instalación siguiendo las indicaciones de la distribución de Linux. Esto incluirá la selección de idioma, zona horaria, configuración de usuario y otros detalles.
-
-9. Después de completar la instalación, reinicie su computadora y podrá elegir entre su sistema operativo original y Linux al arrancar. El menú de inicio DualBoot le permitirá seleccionar cuál de los dos sistemas operativos desea utilizar en cada arranque.
-
-
-## Descargar e instalar la herramienta de creación de medios de instalación de Linux:
-
-- [**Balena Etcher**](https://etcher.balena.io/): Una herramienta de creación de medios de instalación de Linux.
-
-- [**Ventoy**](https://www.ventoy.net/en/index.html): Otra herramienta para crear medios de instalación de Linux.
-
-**Ejemplo con Etcher**:
-
-1. Ejecute Etcher.
-
-2. Haga clic en "Select image" y seleccione la imagen ISO de Linux que descargó.
-
-3. Haga clic en "Select drive" y seleccione la unidad USB que conectó a su computadora.
-
-4. Haga clic en "Flash!".
-
-5. Espere a que Etcher termine de crear el medio de instalación.
-
-**Ejemplo con Ventoy**:
-
-1. Ejecute Ventoy.
-
-2. Haga clic en "+" y seleccione la unidad USB que conectó a su computadora.
-
-3. Haga clic en "Yes" para formatear la unidad USB.
-
-4. Copie la imagen ISO de Linux a la unidad USB.
-
-## Para descargar la ISO para Linux:
-
-- [**Ubuntu**](https://ubuntu.com/): Sitio web de Ubuntu, una distribución popular de Linux.
-
-- [**Linux Mint**](https://linuxmint.com/): Sitio web de Linux Mint, otra distribución de Linux amigable.
-
-- [**Debian**](https://www.debian.org/index.es.html): Sitio web de Debian, una distribución de Linux conocida por su estabilidad.
-
-
-# Recursos Recomendados para Aprender Linux:
-
-- [**hack4u**](https://hack4u.io/cursos/introduccion-a-linux/): Ofrece cursos de introducción a Linux.
-
-- [**mastermind**](https://www.mastermind.ac/courses/search?search=linux): Proporciona una variedad de cursos relacionados con Linux.
-
-- [**Nate Gentile**](https://www.youtube.com/watch?v=knrc4q1S_q0): Canal de YouTube con contenido relacionado con Linux y tutoriales.
-
-Estos recursos son excelentes opciones para aprender Linux y adquirir habilidades en el sistema operativo. Puedes explorar cursos en línea y tutoriales en video para obtener un conocimiento más profundo de Linux.
-
  
 ## Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
