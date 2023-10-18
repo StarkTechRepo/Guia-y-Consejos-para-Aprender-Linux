@@ -71,7 +71,7 @@
 - **Desarrolladores:** Linux es el sistema operativo preferido por muchos desarrolladores. Ofrece una amplia gama de herramientas y bibliotecas esenciales para el desarrollo de software, lo que lo hace una opción valiosa para programadores y desarrolladores de aplicaciones.
 
 
-### Por qué Usar Linux]
+### Por qué Usar Linux:
 
 Linux es una elección atractiva por diversas razones:
 
