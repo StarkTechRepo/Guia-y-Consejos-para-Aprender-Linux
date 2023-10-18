@@ -280,7 +280,7 @@ Si un juego no es compatible con **Proton**, puedes intentar usar **Wine** o una
 
 4. Copie la imagen ISO de Linux a la unidad USB.
 
-## Para descargar la ISO para Linux:
+# Para descargar la ISO para Linux:
 
 - [**Ubuntu**](https://ubuntu.com/): Sitio web de Ubuntu, una distribución popular de Linux.
 
