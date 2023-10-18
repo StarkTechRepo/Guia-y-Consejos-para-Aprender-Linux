@@ -229,8 +229,7 @@ Pero, todavía hay algunos juegos que no son compatibles con Linux. Esto suele d
 
 - Proton es fácil de usar. Simplemente instala [Steam](https://store.steampowered.com/about/) en tu sistema Linux y Proton se instalará automáticamente. Luego, puedes instalar cualquier juego de Steam que sea compatible con Proton.
 
-Si un juego no es compatible con Proton, puedes intentar usar [Wine]() o una versión nativa del juego. Wine es un proyecto de código abierto que permite ejecutar aplicaciones de Windows en Linux. Sin embargo, Wine puede ser más complejo de usar que Proton.
-
+Si un juego no es compatible con **Proton**, puedes intentar usar **Wine** o una versión nativa del juego. Wine es un proyecto de código abierto que permite ejecutar aplicaciones de Windows en Linux. Sin embargo, Wine puede ser más complejo de usar que Proton.
 
 # Algunos Atajos recomendados en Linux:
 
