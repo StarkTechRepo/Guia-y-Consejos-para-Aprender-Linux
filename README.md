@@ -1,5 +1,5 @@
 
-## Guía y Consejos para Aprender Linux (Para Novatos)
+# Guía y Consejos para Aprender Linux (Para Novatos)
 
 ![imagen](foto.jpg)
 
@@ -41,14 +41,14 @@
 - [Recursos Recomendados para Aprender Linux](#recursos-recomendados-para-aprender-linux)
 
 
-## ¿Qué es Linux?
+# ¿Qué es Linux?
 
 - Linux es un sistema operativo de código abierto y multiplataforma que se basa en el kernel Linux. El kernel Linux es el núcleo del sistema operativo, que administra los recursos del hardware y proporciona una plataforma para que las aplicaciones se ejecuten.
 
 - Linux es un sistema operativo muy versátil que se puede utilizar en una amplia gama de dispositivos, incluyendo ordenadores personales, servidores, dispositivos móviles y dispositivos embebidos.
 
 
-### Características de Linux:
+# Características de Linux:
 
 - **Código abierto:** Linux es un software de código abierto, lo que significa que su código fuente es accesible y modificable por cualquier persona. Esto fomenta la creación de nuevas distribuciones de Linux y la mejora constante de las existentes.
 
@@ -59,7 +59,7 @@
 - **Seguridad:** Linux cuenta con una sólida reputación en cuanto a seguridad. La disponibilidad de su código fuente para revisión por parte de la comunidad contribuye a la detección y corrección rápida de vulnerabilidades, lo que lo convierte en una elección segura para entornos críticos.
 
 
-### Disponibilidad en Linux:
+# Disponibilidad en Linux:
 
 - **Usuarios domésticos:** Linux es una excelente opción para los usuarios domésticos que buscan un sistema operativo seguro y confiable. Además, Linux ofrece una amplia gama de software para el hogar, que incluye reproductores multimedia, suites ofimáticas y juegos.
 
@@ -68,7 +68,7 @@
 - **Desarrolladores:** Linux es el sistema operativo preferido por muchos desarrolladores. Ofrece una amplia gama de herramientas y bibliotecas esenciales para el desarrollo de software, lo que lo hace una opción valiosa para programadores y desarrolladores de aplicaciones.
 
 
-### Por qué Usar Linux:
+# Por qué Usar Linux:
 
 Linux es una elección atractiva por diversas razones:
 
@@ -85,7 +85,7 @@ Linux es una elección atractiva por diversas razones:
 Además de estas ventajas, Linux también ofrece una serie de características que lo hacen atractivo para usuarios de todos los perfiles. Es compatible con una amplia gama de software y hardware, y ofrece un rendimiento excepcional en una variedad de tareas.
 
 
-### Importancia de Aprender Linux para Informáticos o Programadores:
+# Importancia de Aprender Linux para Informáticos o Programadores:
 
 - **Mejores oportunidades de empleo:** Los informáticos y programadores que tienen conocimientos en Linux son altamente demandados por los empleadores, ya que muchas empresas y organizaciones utilizan sistemas basados en Linux.
 
@@ -96,7 +96,7 @@ Además de estas ventajas, Linux también ofrece una serie de características q
 Si eres informático o programador, aprender Linux es una habilidad valiosa que te abrirá muchas puertas en tu carrera. Te permitirá acceder a mejores oportunidades de empleo, ampliar tus conocimientos y tener una mayor flexibilidad en tu trabajo.
 
 
-### Algunas Aplicaciones Disponibles en Linux:
+# Algunas Aplicaciones Disponibles en Linux:
 
 - **Ofimática:** `LibreOffice`, `OnlyOffice`, `WPS Office`, `Google Docs`
 
@@ -119,7 +119,7 @@ Si eres informático o programador, aprender Linux es una habilidad valiosa que 
 - **Software de seguridad:** `ClamAV`, `Malwarebytes`, `Bitdefender`, `Kaspersky`
 
 
-### Ver Aplicaciones Disponibles en Linux:
+# Ver Aplicaciones Disponibles en Linux:
 
 La mayoría de las distribuciones de Linux tienen un gestor de paquetes que te permite instalar y desinstalar aplicaciones. El gestor de paquetes también te mostrará una lista de todas las aplicaciones disponibles para tu distribución.
 
@@ -149,7 +149,7 @@ Además, puedes utilizar los siguientes comandos en la terminal:
 Estos comandos te ayudarán a explorar y gestionar las aplicaciones en tu sistema Linux.
 
 
-### Distribuciones Recomendadas de Linux:
+# Distribuciones Recomendadas de Linux:
 
 - [**Ubuntu:**](https://ubuntu.com/) Ubuntu es una distribución de Linux basada en Debian que es muy popular entre los usuarios domésticos y empresariales. Es conocida por su facilidad de uso, su amplia gama de software y su soporte de hardware.
 
@@ -158,7 +158,7 @@ Estos comandos te ayudarán a explorar y gestionar las aplicaciones en tu sistem
 - [**Debian:**](https://www.debian.org/) Debian es una distribución de Linux de código abierto que es conocida por su estabilidad y su amplia gama de software. Es la base de muchas otras distribuciones de Linux, incluyendo Ubuntu y Linux Mint.
 
 
-### Probar una Distribución de Linux
+# Probar una Distribución de Linux
 
 Si deseas probar una distribución de Linux de manera rápida y sencilla, puedes utilizar **DistroSea**, un sitio web que te permite hacerlo directamente desde tu navegador web sin necesidad de instalarla en tu ordenador.
 
@@ -174,8 +174,7 @@ Para probar una distribución de Linux con DistroSea, sigue estos pasos:
 Una vez que la distribución de Linux esté instalada, podrás probarla como si estuviera instalada en tu ordenador, directamente desde tu navegador web.
 
 
-## Cómo Aprender Linux
-
+# Cómo Aprender Linux
 Si deseas aprender Linux de manera efectiva, aquí hay algunos pasos clave a seguir:
 
 1. **Elige una distribución de Linux amigable para principiantes:** Es recomendable comenzar con una distribución de Linux fácil de usar, como [Ubuntu](https://ubuntu.com/), [Linux Mint](https://linuxmint.com/) o [Debian](https://www.debian.org/). Estas distribuciones están diseñadas pensando en usuarios principiantes.
@@ -193,7 +192,7 @@ Si deseas aprender Linux de manera efectiva, aquí hay algunos pasos clave a seg
 Recuerda que Linux ofrece una variedad de distribuciones y herramientas, por lo que la exploración y la experimentación son esenciales en tu proceso de aprendizaje.
 
 
-## Pautas para Aprender Linux
+# Pautas para Aprender Linux
 
 1. **Comienza con lo básico:** No intentes aprender todo de una vez. Empieza con los conceptos básicos, como cómo instalar y usar aplicaciones, cómo administrar tu sistema y cómo usar la línea de comandos.
 
@@ -202,7 +201,7 @@ Recuerda que Linux ofrece una variedad de distribuciones y herramientas, por lo 
 3. **Pide ayuda:** Si te atascas, no tengas miedo de pedir ayuda. Hay muchas comunidades de Linux en línea y fuera de línea donde puedes obtener ayuda y apoyo de otros usuarios de Linux.
 
 
-## Compatibilidad de Juegos en Linux
+# Compatibilidad de Juegos en Linux
 
 La compatibilidad de juegos con Linux ha mejorado significativamente en los últimos años. Esto se debe en gran parte a la introducción de [Proton](https://www.protondb.com/), una capa de compatibilidad que permite que los juegos de Windows se ejecuten en Linux.
 
@@ -224,7 +223,7 @@ Algunos juegos más populares que son compatibles con Linux:
 Pero, todavía hay algunos juegos que no son compatibles con Linux. Esto suele deberse a DRM o a la falta de soporte del desarrollador.
 
 
-### Cómo Jugar en Linux?
+# Cómo Jugar en Linux?
 
 - [Proton](https://www.protondb.com/): es una capa de compatibilidad que permite que los juegos de Windows se ejecuten en Linux. Es desarrollado por Valve, la compañía que crea Steam, la plataforma de distribución de juegos más popular del mundo.
 
@@ -233,7 +232,7 @@ Pero, todavía hay algunos juegos que no son compatibles con Linux. Esto suele d
 Si un juego no es compatible con Proton, puedes intentar usar [Wine](https://www.winehq.org/) o una versión nativa del juego. Wine es un proyecto de código abierto que permite ejecutar aplicaciones de Windows en Linux. Sin embargo, Wine puede ser más complejo de usar que Proton.
 
 
-### Algunos Atajos recomendados en Linux:
+# Algunos Atajos recomendados en Linux:
 
 - `Ctrl+C`: Interrumpe la ejecución de un comando.
 - `Ctrl+V`: Pega el contenido del portapapeles.
@@ -304,7 +303,7 @@ Si un juego no es compatible con Proton, puedes intentar usar [Wine](https://www
 - `nodejs`: Entorno de ejecución JavaScript.
 
 
-### Instalar Linux en DualBoot:
+# Instalar Linux en DualBoot:
 
 1. Descargue la imagen ISO de la distribución de Linux que desea instalar.
 
@@ -353,7 +352,7 @@ Si un juego no es compatible con Proton, puedes intentar usar [Wine](https://www
 - [**Debian**](https://www.debian.org/index.es.html): Sitio web de Debian, una distribución de Linux conocida por su estabilidad.
 
 
-### Recursos Recomendados para Aprender Linux:
+# Recursos Recomendados para Aprender Linux:
 
 - [**hack4u**](https://hack4u.io/cursos/introduccion-a-linux/): Ofrece cursos de introducción a Linux.
 
