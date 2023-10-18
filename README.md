@@ -314,6 +314,15 @@ Si un juego no es compatible con **Proton**, puedes intentar usar **Wine** o una
 
 5. Siga las instrucciones en pantalla para crear el medio de instalación.
 
+6. Reinicie su PC y configure la secuencia de arranque para que inicie desde el USB. Las instrucciones específicas para hacerlo variarán según la marca y modelo de su computadora. Consulte el manual del usuario o el sitio web del fabricante para obtener información detallada sobre cómo configurar la secuencia de arranque.
+
+7. Cuando el sistema arranque desde el USB, siga las instrucciones en pantalla para instalar Linux en el disco duro junto con su sistema operativo actual (DualBoot). Asegúrese de seguir las indicaciones con cuidado y tenga en cuenta que esta acción modificará la configuración de su disco duro, así que hágalo con precaución.
+
+8. Complete el proceso de instalación siguiendo las indicaciones de la distribución de Linux. Esto incluirá la selección de idioma, zona horaria, configuración de usuario y otros detalles.
+
+9. Después de completar la instalación, reinicie su computadora y podrá elegir entre su sistema operativo original y Linux al arrancar. El menú de inicio DualBoot le permitirá seleccionar cuál de los dos sistemas operativos desea utilizar en cada arranque.
+
+
 ## Descargar e instalar la herramienta de creación de medios de instalación de Linux:
 
 - [**Balena Etcher**](https://etcher.balena.io/): Una herramienta de creación de medios de instalación de Linux.
