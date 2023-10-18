@@ -131,7 +131,7 @@ La mayoría de las distribuciones de Linux tienen un gestor de paquetes que te p
 
 - **Debian:** Para ver la lista de aplicaciones disponibles, puedes usar el comando `apt list`. Para buscar una aplicación específica, utiliza `apt search nombre_de_la_aplicación`.
 
-### Desde sitios web de aplicaciones:
+#### Desde sitios web de aplicaciones:
 
 - **Flathub:** [Flathub](https://flathub.org/) es un repositorio de aplicaciones de código abierto que utiliza el formato Flatpak.
 
