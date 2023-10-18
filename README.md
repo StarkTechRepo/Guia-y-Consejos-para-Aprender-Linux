@@ -6,11 +6,8 @@
 ## Indice:
 
 - [¿Qué es Linux?](#qué-es-linux)
-
 - [Características de Linux](#características-de-linux)
-
 - [Disponibilidad en Linux](#disponibilidad-en-linux)
-
 - [Por qué Usar Linux](#por-qué-usar-linux)
 
 - [Importancia de Aprender Linux para Informáticos o Programadores](#importancia-de-aprender-linux-para-informáticos-o-programadores)
